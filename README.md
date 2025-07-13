@@ -30,6 +30,8 @@ A **simple, offline mental health chatbot** built using **Python** and **Tkinter
 ## 📷 Screenshots
 
 <img width="478" height="397" alt="image" src="https://github.com/user-attachments/assets/90f5e527-245a-40bf-868f-74b93227031d" />
+<img width="476" height="397" alt="image" src="https://github.com/user-attachments/assets/b411d1fb-d9ba-435e-8fb0-7207c97e26ac" />
+
 
 ---
 
