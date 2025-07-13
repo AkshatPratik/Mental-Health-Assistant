@@ -3,8 +3,6 @@
 A **simple, offline mental health chatbot** built using **Python** and **Tkinter**, designed to help users track their mood, talk through thoughts, and reflect — like a tiny pocket therapist 💬🧘‍♀️.
 
 
-<img width="478" height="397" alt="image" src="https://github.com/user-attachments/assets/90f5e527-245a-40bf-868f-74b93227031d" />
-
 
 ---
 
@@ -31,7 +29,7 @@ A **simple, offline mental health chatbot** built using **Python** and **Tkinter
 
 ## 📷 Screenshots
 
-> Add screenshots of the app here (optional)
+<img width="478" height="397" alt="image" src="https://github.com/user-attachments/assets/90f5e527-245a-40bf-868f-74b93227031d" />
 
 ---
 
