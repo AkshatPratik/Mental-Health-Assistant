@@ -8,7 +8,7 @@ A **simple, offline mental health chatbot** built using **Python** and **Tkinter
 
 ## 💡 Features
 
-✅ Real-time chatbot with mental health awareness  
+✅ Real-time chatbot with mental health awareness 
 ✅ Detects mood from your responses (sad, anxious, happy, etc.)  
 ✅ Saves full chat history with timestamp & emotion  
 ✅ GUI interface using `tkinter`  
